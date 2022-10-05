@@ -1,1 +1,2 @@
-"# random-calculator" 
+# random-calculator
+Created for laboratory work at University.
